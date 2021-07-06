@@ -1,0 +1,170 @@
+.container{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    width: 1200px;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.navbar{
+    background-color:white;
+    padding: 10px;
+    margin: 0px;
+}
+#home{
+    float: left;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 70px;
+    color: black;
+    
+}
+section{
+    height: 500px; ;
+}
+.hilight{
+    color: orange;
+}
+.para{
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    margin-left: 0;
+    
+}
+.h2-font{
+    font-size: 40px;
+    margin:0 ;
+    color: rgb(7, 7, 110);
+
+}
+.half-width{
+width: 40%;
+float: left;
+margin-left: 7%;
+margin-top: 2%;
+padding-left: 2%;
+}
+.half-width img{
+    width: 90%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( lightsalmon, rgb(245, 50, 16));
+    padding: 10px 30px;
+    color: white;
+    font-weight: 500;
+    border-radius: 25px;
+    border-width: 20%;
+    border: none;
+    font-size: 20px;
+   
+}
+
+.footer-decor{
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+
+}
+.footer-decor p{
+    color: white;
+}
+.triple-width{
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+    padding: 2%;
+    border: cornflowerblue;
+    background-color:white;
+    background-size: 100%;
+    box-shadow: 10px 10px 20px grey;
+    border-radius: 10px;
+    height: 50%;
+    
+}
+.triple-width img
+{
+    width: 100%;
+}
+
+.my-recipe{
+    margin-top: -2px;
+    height: 700px;
+    
+}
+.p2{
+
+    color: rgb(63, 47, 63);
+    font-size: 15px;
+}
+.hero-text{
+    align-items: center;
+    margin: 7%;
+    padding-top: 1%;
+    text-align: center;
+}
+.hero-image{
+    background-image: url("images/Group_33094_1.png");
+    margin-left: 30%;
+    height: 38%;
+    width: 40%;
+    border-radius: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+  }
+  
+.li-item {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #ddd;
+  }
+
+.about-area{
+      background-image: url("images/Frame58.jpg");
+      width: 1200px;
+      background-size: cover;
+      position: relative;
+      height: 476px;
+      
+  }
+  .about-img img{
+    width: 60%;
+    height: 450px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+#social{
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 3%;
+    margin-right: 3%;
+    align-items: center;
+    height: 175px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-bottom: 3px;
+}
+.social-media{
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+    padding: 2%;
+    text-align: center;
+}
+    
